@@ -24,4 +24,4 @@ Please add your name as a PR!
 - [Daniel Mouris (founding member)](https://github.com/dgmouris)
 - [Micah Dyck](https://github.com/mdyck23)
 - [Keifer Erikson](https://github.com/keifererikson)
-- [Riyaa Gupta](https://github.com/riyaahsp)
+- [Riyaa Gupta ](https://github.com/riyaahsp)
